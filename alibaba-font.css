@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    src: url('./alibabaFont/zh-cn/Alibaba-PuHuiTi-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi-Bold';
+    src: url('./alibabaFont/zh-cn/Alibaba-PuHuiTi-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi-Light';
+    src: url('./alibabaFont/zh-cn/Alibaba-PuHuiTi-Light.otf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi-Medium';
+    src: url('./alibabaFont/zh-cn/Alibaba-PuHuiTi-Medium.otf');
+    font-weight: Medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi-Heavy';
+    src: url('./alibabaFont/zh-cn/Alibaba-PuHuiTi-Heavy.otf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Normal-Italics';
+    src: url('./alibabaFont/AlibabaSans/ltalics/AlibabaSans-Italic.otf');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Bold-Italics';
+    src: url('./alibabaFont/AlibabaSans/ltalics/AlibabaSans-BoldItalic.otf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-light-Italics';
+    src: url('./alibabaFont/AlibabaSans/ltalics/AlibabaSans-LightItalic.otf');
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Heavy-Italics';
+    src: url('./alibabaFont/AlibabaSans/ltalics/AlibabaSans-HeavyItalic.otf');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Medium-Italics';
+    src: url('./alibabaFont/AlibabaSans/ltalics/AlibabaSans-MediumItalic.otf');
+    font-weight: Medium;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Normal';
+    src: url('./alibabaFont/AlibabaSans/Norma/AlibabaSans-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-light';
+    src: url('./alibabaFont/AlibabaSans/Norma/AlibabaSans-Light.otf');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Medium';
+    src: url('./alibabaFont/AlibabaSans/Norma/AlibabaSans-Medium.otf');
+    font-weight: Medium;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Bold';
+    src: url('./alibabaFont/AlibabaSans/Norma/AlibabaSans-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Heavy';
+    src: url('./alibabaFont/AlibabaSans/Norma/AlibabaSans-Heavy.otf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AlibabaSans-Black';
+    src: url('./alibabaFont/AlibabaSans/Norma/AlibabaSans-Black.otf');
+    font-weight: 900;
+    font-style: normal;
+}
